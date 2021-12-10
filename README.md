@@ -2,7 +2,7 @@
 
 - 🖥 Hoje Desenvolvedor Full Stack Junior.
 - 📚 Bacharel em Sistemas de Informação.
-- 💻 Tecnologias:Java,Spring. FrontEnd: Angular,React.
+- 💻 Tecnologias BackEnd:Java,Spring,node.js          FrontEnd: Angular,React.
 - 📫 Contato: https://www.linkedin.com/in/marcelo-felipe-silva-25597520/ e marcelofelipesilva@outlook.com.
 
 
@@ -14,8 +14,6 @@
 
 <div style="display: inline_block"><br>
  
- <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- <img align="center" alt="React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
