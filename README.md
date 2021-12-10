@@ -2,7 +2,7 @@
 
 - 🖥 Hoje Desenvolvedor Full Stack Junior.
 - 📚 Bacharel em Sistemas de Informação.
-- 💻 Tecnologias: C#,.NetCore,Java,Spring. FrontEnd: Angular,React.
+- 💻 Tecnologias:Java,Spring. FrontEnd: Angular,React.
 - 📫 Contato: https://www.linkedin.com/in/marcelo-felipe-silva-25597520/ e marcelofelipesilva@outlook.com.
 
 
